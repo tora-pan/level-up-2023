@@ -1,0 +1,9 @@
+{
+  "name": "levelup-2023",
+  "version": "1.0.0",
+  "description": "A repo containing everything from 2023 leveling up",
+  "main": "src/index.js",
+  "repository": "https://github.com/tora-pan/level-up-2023.git",
+  "author": "Travis Pandos",
+  "license": "MIT"
+}
