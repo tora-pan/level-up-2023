@@ -121,6 +121,36 @@ Arrays hold values of the same type at **contiguous memory locations**. In an ar
 ### Things to Look out for During Interviews
 </details>
 
+## 14 Common Techniques for DSAs
+[Found Here](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+### Sliding Window Technique
+### Two Pointer
+
+### Fash and Slow Pointers
+
+### Merge Intervals
+
+### Cyclic Sort
+
+### In-place Reversal of Linked List
+
+### Tree BFS
+
+### Tree DFS
+
+### Two Heaps
+
+### Subsets
+
+### Modified Binary Search
+
+### Top K Elements
+
+### K-Way Merge
+
+### Topological Sort
+
 
 ## Blind 75
 
